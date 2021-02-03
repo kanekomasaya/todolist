@@ -29,5 +29,9 @@
     },
     "bin": [
         "bin/homestead"
-    ]
+    ],
+    "classmap": [
+         "database"
+    ],
+
 }
