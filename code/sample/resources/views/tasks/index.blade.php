@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col col-md-4">
         <nav class="panel panel-default">
-          <div class="panel-heading">フォルダ</div>
+          <div class="panel-heading">フォルダーーー</div>
           <div class="panel-body">
             <a href="{{ route('folders.create') }}" class="btn btn-default btn-block">
               フォルダを追加しないおっぴあ
