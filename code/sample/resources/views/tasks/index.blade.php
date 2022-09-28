@@ -36,7 +36,7 @@
           <table class="table">
             <thead>
             <tr>
-              <th>タイトル</th>
+              <th>送信機能完成</th>
               <th>状態</th>
               <th>期限</th>
               <th></th>
