@@ -8,7 +8,7 @@
           <div class="panel-heading">フォルダーーー</div>
           <div class="panel-body">
             <a href="{{ route('folders.create') }}" class="btn btn-default btn-block">
-              フォルダを追加しないおっぴあ
+              フォルダを追加しないおっぴあアンflアンdfnasDJんfjsdんfndさんfljなsdljんflじゃsn
             </a>
           </div>
           <div class="list-group">
@@ -29,7 +29,7 @@
           <div class="panel-body">
             <div class="text-right">
               <a href="{{ route('tasks.create', ['id' => $current_folder_id]) }}" class="btn btn-default btn-block">
-                タスクを追加する
+                タスクを追加するdlさんflんdさlnfldsnlfんlだs
               </a>
             </div>
           </div>
